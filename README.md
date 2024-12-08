@@ -70,43 +70,19 @@ Here are some ideas to get you started:
     </tr>
   </table>
   <br/>
-    <h2>🏅 Certificates & Tests</h2>
+    <h2>🏫 Education </h2>
   <table>
     <tr>
       <th>Organization</th>
-      <th>Certificate/Reward Name</th>
-      <th>Score/Grade</th>
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://www.iitp.kr/main.it">IITP</a></td>
-      <td>TOPCIT(Test Of Practical Competency in ICT)</td>
-      <td>595</td>
-      <td>2022.10</td>
+      <td><a href="https://www.daegu.ac.kr/main">DAEGU UNIVERSITY AI (대구대학교)</a></td>
+      <td>2020.2 ~ NOW</td>
     <tr>
     <tr>
       <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
-      <td>AWS Solutions Architect - Associate</td>
-      <td>Pass</td>
       <td>2022.12</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.ncloud.com/">Naver Cloud Platform</a></td>
-      <td>Naver Cloud Platform - Certified Associate</td>
-      <td>Pass</td>
-      <td>2023.11</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linuxfoundation.org/">The Linux Foundation</a></td>
-      <td>Certified Kubernetes Administrator (CKA)</td>
-      <td>Pass</td>
-      <td>2023.11</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.kdata.or.kr/">KData</a></td>
-      <td>SQL Developer (SQLD)</td>
-      <td>Pass</td>
-      <td>2024.03</td>
     </tr>
   </table>
 </div>
