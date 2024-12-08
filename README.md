@@ -216,9 +216,9 @@ Here are some ideas to get you started:
           &nbsp
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
           &nbsp
           <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
           &nbsp
@@ -285,7 +285,7 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RublerubitZ" alt="Git stats" height="160px" /></a>
   <img src="https://render.gitanimals.org/lines/cchuyong?pet-id=1" height="140px" width="140px"/>
   <br/>
-  <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
-  <a href="mailto:yeongmin1061@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongmin1061@gmail.com"/></a>
+  <a href="https://www.instagram.com/winningrate9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/winningrate9/"/></a>
+  <a href="mailto:role0606@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:role0606@naver.com"/></a>
   <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </div>
