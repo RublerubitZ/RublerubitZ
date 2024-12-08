@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       <td>🔫 Toy</a></td>
       <td><a href="https://github.com/RublerubitZ/capstone_ers">WAGUWAGU</a></td>
       <td>Full-Stack Engineering, ML Engineering</td>
-      <td>KoBERT(NLP), CBF&NCF, FastAPI, React</td>
+      <td>KoBERT(NLP), CBF&NCF<br> FastAPI, React</td>
       <td>2024.09 ~ 2024.12</td>
     <tr>
     <tr>
