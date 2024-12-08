@@ -122,13 +122,13 @@ Here are some ideas to get you started:
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Linux(하)-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Ubuntu(하)-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Docker(하)-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Amazon%20Web%20Services(하)-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/></a>
             <br/>
         </div>
       </td>
@@ -137,15 +137,15 @@ Here are some ideas to get you started:
       <td align="center">Frontend & ETC</td>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Javascript(하)-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/css(하)-1572B6?style=flat&logo=css3&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/HTML5(하)-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/React(하)-61DAFB?style=flat&logo=React&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Node.js(하)-5FA04E?style=flat&logo=Node.js&logoColor=white"/></a>
           <br/>
         </div>
       </td>
@@ -154,19 +154,19 @@ Here are some ideas to get you started:
       <td align="center">AI & Machine Learning</td>
       <td>
           <div>
-            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/OpenCV(중)-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/PyTorch(중)-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"/></a>
+            <img src="https://img.shields.io/badge/Matplotlib(중)-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Numpy(중)-%23013243.svg?style=flat&logo=numpy&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Pandas(중)-%23150458.svg?style=flat&logo=pandas&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/scikit--learn(중)-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/TensorFlow(중)-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
             &nbsp
             <img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white"/></a>
             &nbsp
