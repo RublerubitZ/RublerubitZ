@@ -262,8 +262,8 @@ Here are some ideas to get you started:
           &nbsp
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
           &nbsp
-          <img alt="CSS" width="30px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
-          &nbsp;
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+          &nbsp
           <img alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
           &nbsp;
           <img alt="NextJS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />
