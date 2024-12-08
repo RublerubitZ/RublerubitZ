@@ -214,19 +214,17 @@ Here are some ideas to get you started:
         <div>
           <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
           &nbsp
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+          &nbsp
+          <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+          &nbsp
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+          &nbsp
           <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
           &nbsp
-          <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+          <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
           &nbsp;
-          <img alt="Nest.JS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" />
-          &nbsp;
-          <img alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
-          &nbsp;
-          <img alt="Redis" width="30px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
-          &nbsp;
-          <img alt="Cassandra" width="30px" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" />
-          &nbsp;
-          <img alt="Kafka" width="30px" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" />
+          <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
           <br/>
         </div>
       </td>
@@ -242,10 +240,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
             &nbsp
             <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/></a>
-            &nbsp
-            <img alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
-            &nbsp;
-            <img alt="ArgoCD" width="30px" src="https://github.com/CChuYong/CChuYong/assets/67673493/36e7ac41-cdd7-4f06-be7b-36073ceed43f" />
             <br/>
         </div>
       </td>
@@ -262,15 +256,7 @@ Here are some ideas to get you started:
           &nbsp
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
           &nbsp
-          <img alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
-          &nbsp;
-          <img alt="NextJS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />
-          &nbsp;
-          <img alt="React" width="30px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
-          &nbsp;
-          <img alt="NodeJS" width="30px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
-          &nbsp;
-          <img alt="Redux" width="30px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
+          <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/></a>
           <br/>
         </div>
       </td>
