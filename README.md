@@ -277,6 +277,25 @@ Here are some ideas to get you started:
         </div>
       </td>
     </tr>
+    <tr>
+      <td align="center">AI & Machine Learning</td>
+      <td>
+          <div>
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
+            &nbsp
+            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
+            &nbsp
+            <img alt="AWS" width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
+            &nbsp;
+            <img alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+            &nbsp;
+            <img alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
+            &nbsp;
+            <img alt="ArgoCD" width="30px" src="https://github.com/CChuYong/CChuYong/assets/67673493/36e7ac41-cdd7-4f06-be7b-36073ceed43f" />
+            <br/>
+        </div>
+      </td>
+    </tr>
   </table>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RublerubitZ&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RublerubitZ" alt="Git stats" height="160px" /></a>
