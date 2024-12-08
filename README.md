@@ -203,17 +203,17 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <h2>🛠 Development Stack</h2>
-  주로 백엔드 개발과 인프라 운영 위주로 학습 및 개발을 진행하지만, 다양한 토이프로젝트의 PoC등을 위해 풀스택의 기술을 학습하고 있습니다.<br/>
-  최근 MSA 및 분산 아키텍쳐에 관심을 가지고 있고, 서비스의 고가용성 및 DR 대응을 위한 설계를 좋아합니다.<br/>
-  대용량 트래픽 처리와 그에 상응하는 인프라 설계를 지향합니다. 현재 서비스들의 상태를 추적할 수 있는 모니터링 체계 구축 역시 학습중입니다.<br/><br/>
+  <h2>🛠 Techs, Languages and Development Stack</h2>
+  머신러닝 프로젝트와 백엔드를 위주로 개발하고 있습니다. 토이프로젝트를 위해 풀스택 개발도 종종 진행하고 있습니다.<br/>
+  ------<br/>
+  ------<br/><br/>
   <table>
     <tr>
       <td align="center">Backend</td>
       <td>
         <div>
-          <img alt="Kotlin" width="30px" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" />
-          &nbsp;
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+          &nbsp
           <img alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
           &nbsp;
           <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
