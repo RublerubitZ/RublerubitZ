@@ -101,19 +101,19 @@ Here are some ideas to get you started:
       <td align="center">Backend</td>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Python(중)-3766AB?style=flat&logo=Python&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/C(상)-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Java(하)-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Spring(하)-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Fastapi(하)-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/MySql(하)-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Redis(하)-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
           <br/>
         </div>
       </td>
