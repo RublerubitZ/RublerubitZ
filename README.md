@@ -176,7 +176,8 @@ Here are some ideas to get you started:
   </table>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RublerubitZ&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RublerubitZ" alt="Git stats" height="160px" /></a>
-  <img src="https://render.gitanimals.org/lines/cchuyong?pet-id=1" height="140px" width="140px"/>
+  <img src="https://render.gitanimals.org/lines/RublerubitZ" height="120px" width="600px"/>
+  
   <br/>
   <a href="https://www.instagram.com/winningrate9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/winningrate9/"/></a>
   <a href="mailto:role0606@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:role0606@naver.com"/></a>
