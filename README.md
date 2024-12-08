@@ -180,3 +180,48 @@ Here are some ideas to get you started:
   <a href="mailto:role0606@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:role0606@naver.com"/></a>
   <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Education 표 -->
+      <td>
+        <h2>🏫 Education</h2>
+        <table>
+          <tr>
+            <th>Organization</th>
+            <th>Period</th>
+          </tr>
+          <tr>
+            <td><a href="https://www.daegu.ac.kr/main">DAEGU UNIVERSITY AI (대구대학교)</a></td>
+            <td>2020.2 ~ NOW</td>
+          </tr>
+          <tr>
+            <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+            <td>2022.12</td>
+          </tr>
+        </table>
+      </td>
+
+      <!-- Experience 표 -->
+      <td>
+        <h2>👷 Experience</h2>
+        <table>
+          <tr>
+            <th>Organization</th>
+            <th>Period</th>
+          </tr>
+          <tr>
+            <td><a href="https://42gyeongsan.kr/ko/main.do">42 Gyeongsan (42경산)</a></td>
+            <td>2024.2 ~ NOW</td>
+          </tr>
+          <tr>
+            <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+            <td>2022.12</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
