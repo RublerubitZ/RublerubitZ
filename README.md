@@ -23,21 +23,21 @@ Here are some ideas to get you started:
     <h2>📋 Projects</h2>
   <table>
     <tr>
-      <th>Division</th>
+      <th>Project Division</th>
       <th>Project Name</th>
       <th>Role</th>
       <th>Technology Used</th>
       <th>Period</th>
     </tr> 
     <tr>
-      <td>🔫 Toy Project</a></td>
-      <td><a href="https://github.com/SWMSplendor">WAGUWAGU</a></td>
+      <td>🔫 Toy</a></td>
+      <td><a href="https://github.com/RublerubitZ/capstone_ers">WAGUWAGU</a></td>
       <td>Full-Stack Engineering, ML Engineering</td>
       <td>KoBERT(NLP), CBF&NCF, FastAPI, React</td>
       <td>2024.09 ~ 2024.12</td>
     <tr>
     <tr>
-      <td>📚 Official Project</a></td>
+      <td>📚 Official</a></td>
       <td><a href="https://play.google.com/store/apps/details?id=com.co.swing">SWING<a/></td>
       <td>Backend & Infra Engineering</td>
       <td>TEST</td>
