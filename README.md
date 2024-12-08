@@ -278,8 +278,8 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </table>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RublerubitZ&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RublerubitZ" alt="Git stats" height="160px" /></a>
   <img src="https://render.gitanimals.org/lines/cchuyong?pet-id=1" height="140px" width="140px"/>
   <br/>
   <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
