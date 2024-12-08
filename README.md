@@ -44,7 +44,8 @@ Here are some ideas to get you started:
       <td>2023.01 ~ 2023.07</td>
     </tr>
   </table>
-  
+        
+<br/>  
 <div align="center">
   <table>
     <tr>
