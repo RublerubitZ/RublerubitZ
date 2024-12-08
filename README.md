@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-
 <div align="center">
     <h2>📋 Projects & Careers</h2>
   <table>
@@ -44,32 +43,10 @@ Here are some ideas to get you started:
       <td>Backend & Infra Engineering</td>
       <td>2023.01 ~ 2023.07</td>
     </tr>
-    <tr>
-      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td><a href="https://github.com/depromeet/14th-team5-BE">BiBBi</a></td>
-      <td>Team Leader, Backend & Infra Engineering</td>
-      <td>2023.11 ~ NOW</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td><a href="https://github.com/depromeet/depromeet-makers-be">Depromeet Makers</a></td>
-      <td>Backend & Infra Engineering</td>
-      <td>2024.04 ~ 2024.05</td>
-    </tr>
-    <tr>
-      <td><a href="https://yapp.co.kr/">YAPP</a></td>
-      <td><a href="https://github.com/YAPP-Github/mafoo-backend">MAFOO</a></td>
-      <td>Backend & Infra Engineering</td>
-      <td>2024.05 ~ NOW</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.daangn.com/">Daangn</a></td>
-      <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
-      <td>Software Engineer, Backend</td>
-      <td>2024.08 ~ NOW</td>
-    </tr>
   </table>
+  
   <br/>
+  <div align="center">
     <h2>🏫 Education </h2>
   <table>
     <tr>
@@ -88,6 +65,7 @@ Here are some ideas to get you started:
 </div>
 
   <br/>
+  <div align="center">
     <h2>👷Experience </h2>
   <table>
     <tr>
