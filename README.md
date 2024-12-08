@@ -214,8 +214,8 @@ Here are some ideas to get you started:
         <div>
           <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
           &nbsp
-          <img alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
-          &nbsp;
+          <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
+          &nbsp
           <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
           &nbsp;
           <img alt="Nest.JS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" />
@@ -235,14 +235,14 @@ Here are some ideas to get you started:
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="Docker" width="30px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-            &nbsp;
-            <img alt="Kubernetes" width="30px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
-            &nbsp;
-            <img alt="AWS" width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
-            &nbsp;
-            <img alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
-            &nbsp;
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
+            &nbsp
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+            &nbsp
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+            &nbsp
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></a>
+            &nbsp
             <img alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
             &nbsp;
             <img alt="ArgoCD" width="30px" src="https://github.com/CChuYong/CChuYong/assets/67673493/36e7ac41-cdd7-4f06-be7b-36073ceed43f" />
@@ -259,8 +259,6 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
           &nbsp
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
-          &nbsp
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
           &nbsp
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
           &nbsp
