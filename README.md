@@ -113,8 +113,6 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
           &nbsp
           <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
-          &nbsp
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
           <br/>
         </div>
       </td>
