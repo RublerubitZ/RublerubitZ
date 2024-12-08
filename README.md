@@ -45,9 +45,8 @@ Here are some ideas to get you started:
     </tr>
   </table>
   
-  <br/>
-  <div align="center">
-    <h2>🏫 Education </h2>
+<div align="center">
+  <h2>🏫 Education </h2>
   <table>
     <tr>
       <th>Organization</th>
@@ -62,11 +61,8 @@ Here are some ideas to get you started:
       <td>2022.12</td>
     </tr>
   </table>
-</div>
-
-  <br/>
-  <div align="center">
-    <h2>👷Experience </h2>
+  
+  <h2>👷Experience </h2>
   <table>
     <tr>
       <th>Organization</th>
@@ -82,6 +78,7 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
+
 
 <br/>
 
@@ -176,7 +173,7 @@ Here are some ideas to get you started:
   </table>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RublerubitZ&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RublerubitZ" alt="Git stats" height="160px" /></a>
-  <img src="https://render.gitanimals.org/lines/RublerubitZ" height="120px" width="600px"/>
+  <img src="https://render.gitanimals.org/lines/RublerubitZ" height="140px" width="140px"/>
   
   <br/>
   <a href="https://www.instagram.com/winningrate9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/winningrate9/"/></a>
