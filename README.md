@@ -86,96 +86,92 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
-<br/>
 
-<div align="center">
-    <h3>🔒 Private(Toy) Projects</h3>
-  <table>
-    <tr>
-      <th>Type</th>
-      <th>Project Name</th>
-      <th>Key Stacks</th>
-      <th>Period</th>
-    </tr>
-    <tr>
-      <td>Full-Stack</td>
-      <td><a href="https://github.com/CChuYong/dogsound-counter-api">BadSound Counter</a></td>
-      <td>SpringBoot WebFlux, Cassandra, Clean-Architecture</td>
-      <td>2023.04 ~ 2023.06</td>
-    </tr>
-    <tr>
-      <td>Full-Stack</td>
-      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
-      <td>SpringBoot MVC, Flutter, Kubernetes(EKS), Terraform</td>
-      <td>2023.06 ~ 2023.08</td>
-    </tr>
-    <tr>
-      <td><del>Full-Stack</del></td>
-      <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
-      <td><del>Flutter, Backend-For-Frontend(Nest.JS), Local Scraping</del></td>
-      <td>2023.09 ~ SUSPENDED</td>
-    </tr>
-    
-  </table>
   <br/>
-    <h3>🏅 ETC (Rewards, Foreign, Volunteer..)</h3>
+    <h2>🏫 👷Experience </h2>
   <table>
     <tr>
       <th>Organization</th>
-      <th>Certificate/Reward Name</th>
-      <th>Score/Grade</th>
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://www.kdn.com/">KDN</a></td>
-      <td>Weekend ICT Education Volunteer</td>
-      <td>Instructor</td>
-      <td>21/08~21/09, 22/08~22/09</td>
-    </tr>
+      <td><a href="https://www.daegu.ac.kr/main">42 Gyeongsan (42경산     <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr> 
     <tr>
-      <td><a href="https://www.ybm.co.kr/">YBM</a></td>
-      <td>TOEIC(Test Of English for International Communication)</td>
-      <td>895</td>
-      <td>2023.08</td>
-    </tr>
+      <td><a href="https://www.swmaestro.org/">SW Maestro</a></td>
+      <td><a href="https://github.com/SWMSplendor">Orderify</a></td>
+      <td>Team Leader, Full-Stack Engineering</td>
+      <td>2022.05 ~ 2022.11</td>
     <tr>
-      <td><a href="https://home.kepco.co.kr/">KEPCO</a> & <a href="https://www.nis.go.kr/main.do">NIS</a></td>
-      <td>Honam Collegiate CERT Challenge 2023 - Web Vulnerability</td>
-      <td>Encouragement Award</td>
-      <td>2023.09</td>
-    </tr>
     <tr>
-      <td><a href="https://www.gjrip.or.kr/">GJRIP</a></td>
-      <td>AI/SW Startup Camp IR Pitching Contest</td>
-      <td>2nd Award</td>
-      <td>2023.11</td>
+      <td><a href="https://swingmobility.co/">The Swing</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.co.swing">SWING<a/></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2023.01 ~ 2023.07</td>
     </tr>
     <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td>Depromeet 14th Team Project Reward</td>
-      <td>1st Award</td>
-      <td>2024.02</td>
+      <td><a href="https://github.com/depromeet/14th-team5-BE">BiBBi</a></td>
+      <td>Team Leader, Backend & Infra Engineering</td>
+      <td>2023.11 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://likelion.university/">LikeLion</a></td>
-      <td>12th LikeLion University HQ</td>
-      <td>Operation Team</td>
-      <td>2024.03~</td>
+      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
+      <td><a href="https://github.com/depromeet/depromeet-makers-be">Depromeet Makers</a></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2024.04 ~ 2024.05</td>
     </tr>
     <tr>
-      <td><a href="https://nia.or.kr/">NIA</a> & <a href="https://worldfriendskorea.or.kr/">WFK</a></td>
-      <td>WFK 2024 Foreign IT Volunteer Program - Nepal</td>
-      <td>Volunteer</td>
-      <td>2024.07~2024.08</td>
+      <td><a href="https://yapp.co.kr/">YAPP</a></td>
+      <td><a href="https://github.com/YAPP-Github/mafoo-backend">MAFOO</a></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2024.05 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://www.dxchallenge.co.kr/about-1">DX Challenge</a></td>
-      <td>Dive 2024 Global Data Hackathon</td>
-      <td>3rd Award</td>
-      <td>2024.10</td>
+      <td><a href="https://www.daangn.com/">Daangn</a></td>
+      <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
+      <td>Software Engineer, Backend</td>
+      <td>2024.08 ~ NOW</td>
+    </tr>
+  </table>
+  <br/>
+    <h2>🏫 Education </h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.daegu.ac.kr/main">DAEGU UNIVERSITY AI (대구대학교)</a></td>
+      <td>2020.2 ~ NOW</td>
+    <tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+      <td>2022.12</td>
     </tr>
   </table>
 </div>
+
+  <br/>
+    <h2>🏫 👷Experience </h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://42gyeongsan.kr/ko/main.do">42 Gyeongsan (42경산)</a></td>
+      <td>2024.2 ~ NOW</td>
+    <tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+      <td>2022.12</td>
+    </tr>
+  </table>
+</div>
+
 <br/>
 
 <div align="center">
