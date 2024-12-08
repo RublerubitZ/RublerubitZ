@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     </tr>
   </table>
         
+---
 <br/>  
 <div align="center">
   <table>
