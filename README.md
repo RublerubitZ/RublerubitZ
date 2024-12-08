@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 </div>
 
   <br/>
-    <h2>🏫 👷Experience </h2>
+    <h2>👷Experience </h2>
   <table>
     <tr>
       <th>Organization</th>
