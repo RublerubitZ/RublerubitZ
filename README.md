@@ -1,4 +1,4 @@
-## Hi there 👋
+## InTroduce About me 👋
 
 <!--
 **RublerubitZ/RublerubitZ** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h2>🧐 About me</h2>
 어려서부터 마인크래프트 게임을통해 개발을 접했습니다. 게임을 플레이하는것보다 시스템을 만드는 것에 흥미가 있습니다.<br/>
 어떻게 하면 최고의 성능을 내면서 고품질의 코드를 작성할 수 있을까 연구하는것에 흥미를 가지고 있습니다.
-</div>
 
 <br/>
 <div align="center">
@@ -44,6 +41,8 @@ Here are some ideas to get you started:
       <td>2023.01 ~ 2023.07</td>
     </tr>
   </table>
+        
+##
 
 <br/>  
 <div align="center">
