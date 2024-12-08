@@ -241,7 +241,7 @@ Here are some ideas to get you started:
             &nbsp
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
             &nbsp
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></a>
+            <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/></a>
             &nbsp
             <img alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
             &nbsp;
