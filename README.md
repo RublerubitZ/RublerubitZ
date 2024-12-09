@@ -107,13 +107,13 @@ Here are some ideas to get you started:
           &nbsp
           <img src="https://img.shields.io/badge/Java(하)-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/Spring(하)-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+          <!-- Spring <img src="https://img.shields.io/badge/Spring(하)-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>-->
           &nbsp
           <img src="https://img.shields.io/badge/Fastapi(하)-009688?style=flat&logo=Fastapi&logoColor=white"/></a>
           &nbsp
-          <img src="https://img.shields.io/badge/MySql(하)-4479A1?style=flat&logo=MySql&logoColor=white"/></a>
+          <!-- Spring <img src="https://img.shields.io/badge/MySql(하)-4479A1?style=flat&logo=MySql&logoColor=white"/></a>-->
           &nbsp
-          <img src="https://img.shields.io/badge/Redis(하)-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
+          <!-- Redis <img src="https://img.shields.io/badge/Redis(하)-FF4438?style=flat&logo=Redis&logoColor=white"/></a>-->
           <br/>
         </div>
       </td>
@@ -125,8 +125,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Linux(하)-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
             &nbsp
             <img src="https://img.shields.io/badge/Ubuntu(하)-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
-            &nbsp
-            <img src="https://img.shields.io/badge/Docker(하)-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
             &nbsp
             <img src="https://img.shields.io/badge/Amazon%20Web%20Services(하)-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/></a>
             <br/>
@@ -167,12 +165,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/scikit--learn(중)-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/></a>
             &nbsp
             <img src="https://img.shields.io/badge/TensorFlow(중)-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/></a>
-            &nbsp
-            <img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white"/></a>
-            &nbsp
-            <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white"/></a>
-            &nbsp
-            <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/></a>
             <br/>
         </div>
       </td>
