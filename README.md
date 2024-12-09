@@ -38,10 +38,10 @@ Here are some ideas to get you started:
     <tr>
     <tr>
       <td>📚 Official</a></td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.co.swing">SWING<a/></td>
-      <td>Backend & Infra Engineering</td>
+      <td><a href="https://naver.com">TEST<a/></td>
       <td>TEST</td>
-      <td>2023.01 ~ 2023.07</td>
+      <td>TEST</td>
+      <td>2023.01 ~ 2024.2</td>
     </tr>
   </table>
         
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
             <td>2024.2 ~ NOW</td>
           </tr>
           <tr>
-            <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+            <td><a href="https://">...</a></td>
             <td>2022.12</td>
           </tr>
         </table>
@@ -181,5 +181,5 @@ Here are some ideas to get you started:
   <br/>
   <a href="https://www.instagram.com/winningrate9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/winningrate9/"/></a>
   <a href="mailto:role0606@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:role0606@naver.com"/></a>
-  <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <!--<a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>-->
 </div>
