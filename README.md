@@ -94,8 +94,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🛠 Techs, Languages SKill</h2>
   머신러닝 프로젝트와 백엔드를 위주로 개발하고 있습니다. 토이프로젝트를 위해 풀스택 개발도 종종 진행하고 있습니다.<br/>
-  ------<br/>
-  ------<br/><br/>
+  <!--<br/>-->
+  <br/><br/>
   <table>
     <tr>
       <td align="center">Backend</td>
