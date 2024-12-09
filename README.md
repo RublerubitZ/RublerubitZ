@@ -63,7 +63,7 @@ Here are some ideas to get you started:
             <td>2020.2 ~ NOW</td>
           </tr>
           <tr>
-            <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+            <td><a href="https://">...</a></td>
             <td>2022.12</td>
           </tr>
         </table>
