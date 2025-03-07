@@ -78,7 +78,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
             <td><a href="https://42gyeongsan.kr/ko/main.do">42 Gyeongsan (42경산)</a></td>
-            <td>2024.2 ~ NOW</td>
+            <td>2024.2 ~ 2025.2</td>
           </tr>
           <tr>
             <td><a href="https://">...</a></td>
