@@ -82,40 +82,40 @@
 
 **— Backend —**
 
-![Python](https://img.shields.io/badge/Python_·_중-000000?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C_·_상-000000?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java_·_하-000000?style=flat-square&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI_·_하-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python_·_중-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a3a5c)
+![C](https://img.shields.io/badge/C_·_상-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=6a7f8f)
+![Java](https://img.shields.io/badge/Java_·_하-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=8a5000)
+![FastAPI](https://img.shields.io/badge/FastAPI_·_하-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=005f56)
 
 <br/>
 
 **— AI & Machine Learning —**
 
-![PyTorch](https://img.shields.io/badge/PyTorch_·_중-000000?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_·_중-000000?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV_·_중-000000?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn_·_중-000000?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy_·_중-000000?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas_·_중-000000?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib_·_중-000000?style=flat-square&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_·_중-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=8a2010)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_·_중-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=994200)
+![OpenCV](https://img.shields.io/badge/OpenCV_·_중-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=2e1a8a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn_·_중-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=995800)
+![NumPy](https://img.shields.io/badge/NumPy_·_중-4DABCF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a5f7a)
+![Pandas](https://img.shields.io/badge/Pandas_·_중-130654?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0333)
+![Matplotlib](https://img.shields.io/badge/Matplotlib_·_중-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=082a3e)
 
 <br/>
 
 **— Infrastructure —**
 
-![Linux](https://img.shields.io/badge/Linux_·_하-000000?style=flat-square&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_·_하-000000?style=flat-square&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_·_하-000000?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_·_하-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=c9a000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_·_하-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=8a2e0f)
+![AWS](https://img.shields.io/badge/AWS_·_하-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white&labelColor=995c00)
 
 <br/>
 
 **— Frontend & ETC —**
 
-![JavaScript](https://img.shields.io/badge/JavaScript_·_하-000000?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React_·_하-000000?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5_·_하-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3_·_하-000000?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_·_하-000000?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_·_하-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=c4b000)
+![React](https://img.shields.io/badge/React_·_하-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a9ab5)
+![HTML5](https://img.shields.io/badge/HTML5_·_하-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=852c10)
+![CSS3](https://img.shields.io/badge/CSS3_·_하-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a3f6b)
+![Node.js](https://img.shields.io/badge/Node.js_·_하-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d5226)
 
 <br/>
 
@@ -127,9 +127,9 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/@winningrate9-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/winningrate9/)
-&nbsp;&nbsp;
-[![Naver](https://img.shields.io/badge/role0606@naver.com-000000?style=flat-square&logo=naver&logoColor=white)](mailto:role0606@naver.com)
+[![Instagram](https://img.shields.io/badge/@winningrate9-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a1a30)](https://www.instagram.com/winningrate9/)
+&nbsp;
+[![Naver](https://img.shields.io/badge/role0606@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=027a37)](mailto:role0606@naver.com)
 
 <br/><br/>
 
