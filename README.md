@@ -2,9 +2,19 @@
 
 <br/>
 
-# ⬡ RublerubitZ
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=16&duration=3000&pause=1500&color=AEAEAE&center=true&vCenter=true&width=480&lines=Backend+%26+ML+Engineer;Obsessed+with+Performance+%26+Clean+Code;Started+from+Minecraft+%F0%9F%8E%AE+%E2%80%94+Never+stopped+building)](https://git.io/typing-svg)
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/user-attachments/assets/ffb0ab97-854b-4cbd-a448-b8bef346ff8e" width="110px" />
+    </td>
+    <td align="left">
+      <h1>⬡ RublerubitZ</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=16&duration=3000&pause=1500&color=AEAEAE&center=false&vCenter=true&width=420&lines=Backend+%26+ML+Engineer;Obsessed+with+Performance+%26+Clean+Code;Started+from+Minecraft+%F0%9F%8E%AE+%E2%80%94+Never+stopped+building" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -130,6 +140,9 @@
 [![Instagram](https://img.shields.io/badge/@winningrate9-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a1a30)](https://www.instagram.com/winningrate9/)
 &nbsp;
 [![Naver](https://img.shields.io/badge/role0606@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=027a37)](mailto:role0606@naver.com)
+
+<br/><br/>
+
 
 <br/><br/>
 
