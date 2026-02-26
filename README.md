@@ -43,6 +43,7 @@
 |  | Project | Role | Stack | Period |
 |:---:|:---:|:---:|:---:|:---:|
 | 🎮 | [**WAGUWAGU**](https://github.com/RublerubitZ/capstone_ers) | Full-Stack · ML Engineering | `KoBERT` `CBF&NCF` `FastAPI` `React` | 2024.09 — 2024.12 |
+| 🔖 | [**SEOLSTUDY**](https://github.com/RublerubitZ/semicolon) | Full-stack / DB·Infra | `Node.js + Express.js` `Next.js` `PostgreSQL` ` | 2025.02 - 2025.02 |
 | 📌 | TEST | TEST | `TEST` | 2023.01 — 2024.02 |
 
 <br/>
@@ -140,9 +141,6 @@
 [![Instagram](https://img.shields.io/badge/@winningrate9-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a1a30)](https://www.instagram.com/winningrate9/)
 &nbsp;
 [![Naver](https://img.shields.io/badge/role0606@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=027a37)](mailto:role0606@naver.com)
-
-<br/><br/>
-
 
 <br/><br/>
 
