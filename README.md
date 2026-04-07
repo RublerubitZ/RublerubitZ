@@ -73,11 +73,11 @@
 
 **👷 Experience**
 
-| | |
-|:---|:---:|
-| [42 Gyeongsan](https://42gyeongsan.kr/ko/main.do) | `2024.02 — 2025.02` |
-| [멋쟁이사자처럼 대학](https://likelion.university)] | `2026.4 ~ ING` |
-| ... | `` |
+| 기관명 | 기간 | 비고 |
+|:---:|:---:|:---:|
+| [42 Gyeongsan](https://42gyeongsan.kr/ko/main.do) | `2024.02 — 2025.02` | 1기 본과정 |
+| [멋쟁이사자처럼 대학](https://likelion.university) | `2026.4 ~ ING` | 14기 아기사자 |
+| ... | ... |
 
   </td>
   </tr>
