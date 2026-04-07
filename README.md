@@ -76,7 +76,8 @@
 | | |
 |:---|:---:|
 | [42 Gyeongsan](https://42gyeongsan.kr/ko/main.do) | `2024.02 — 2025.02` |
-| ... | `2022.12` |
+| [멋쟁이사자처럼 대학](https://likelion.university)] | `2026.4 ~ ING` |
+| ... | `` |
 
   </td>
   </tr>
