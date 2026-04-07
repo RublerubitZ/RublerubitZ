@@ -43,7 +43,8 @@
 |  | Project | Role | Stack | Period |
 |:---:|:---:|:---:|:---:|:---:|
 | 🎮 | [**WAGUWAGU**](https://github.com/RublerubitZ/capstone_ers) | Full-Stack · ML Engineering | `KoBERT` `CBF&NCF` `FastAPI` `React` | 2024.09 — 2024.12 |
-| 🔖 | [**SEOLSTUDY**](https://github.com/RublerubitZ/semicolon) | Full-stack / DB·Infra | `Node.js + Express.js` `Next.js` `PostgreSQL` | 2025.02 - 2025.02 |
+| 🔍 | [**Mukabolrae**](https://github.com/RublerubitZ/Mukabolrae) | Full-Stack · AI Engineering | `KoBERT` `KoBART` `FastAPI` `React` | 2025.03 - 2025.9 |
+| 🔖 | [**SEOLSTUDY**](https://github.com/RublerubitZ/semicolon) | Full-stack / DB·Infra | `Node.js + Express.js` `Next.js` `PostgreSQL` | 2026.02 - 2026.02 |
 | 📌 | TEST | TEST | `TEST` | 2023.01 — 2024.02 |
 
 <br/>
@@ -62,10 +63,10 @@
 
 **🏫 Education**
 
-| | |
-|:---|:---:|
-| [대구대학교 AI학과](https://www.daegu.ac.kr/main) | `2020.02 — NOW` |
-| ... | `2022.12` |
+| 학교 | 기간 | 비고 |
+|:---:|:---:|:---:|
+| [대구대학교 AI학과](https://www.daegu.ac.kr/main) | `2020.02 — NOW` | ... |
+| [치체스터 컬리지](https://www.chichester.ac.uk) | `2025.9 - 2025.12` | 어학연수 |
 
   </td>
   <td align="center" width="50%">
@@ -82,6 +83,18 @@
 </table>
 
 <br/>
+
+---
+### `Achievements & Certificates `
+
+<br/>
+
+| Competition | Award | Category |
+|:---:|:---:|:---:|
+|2024-2 LINC 3.0 캡스톤디자인 경진대회| 우수상 | 대회 |
+|2025 IT·공학대전 학생작품 경진대회 | 장려상 | 대회 |
+|2025 영남일보 허깅페이스 경진대회 | 대구지역 참가 | 해커톤 |
+|제4회 2026 블레이버스 MVP 개발 해커톤 | 서울 본선 진출 | 해커톤 |
 
 ---
 
