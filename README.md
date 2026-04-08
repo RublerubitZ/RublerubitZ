@@ -94,7 +94,7 @@
 |:---:|:---:|:---:|
 |2024-2 LINC 3.0 캡스톤디자인 경진대회| [우수상](https://github.com/user-attachments/assets/1529da5a-d1fb-489d-8b72-994438ade410) | 대회 |
 |2025 IT·공학대전 학생작품 경진대회 | [장려상](https://github.com/user-attachments/assets/b091e997-6b09-4df9-b71e-1c87718fdbc4) | 대회 |
-|2025 영남일보 허깅페이스 경진대회 | [대구지역 참가](https://github.com/user-attachments/assets/0c26de27-e8b5-4a7e-a9b4-d481f1a9d35) | 해커톤 | | 해커톤 |
+|2025 영남일보 허깅페이스 경진대회 | [대구지역 참가](https://github.com/user-attachments/assets/0c26de27-e8b5-4a7e-a9b4-d481f1a9d359) | 해커톤 | | 해커톤 |
 |제4회 2026 블레이버스 MVP 개발 해커톤 | [서울 본선 진출](https://github.com/user-attachments/assets/85695049-9aba-42b2-9c18-dd8234bb09ff) | 해커톤 |
 
 ---
