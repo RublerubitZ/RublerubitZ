@@ -44,7 +44,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 🎮 | [**WAGUWAGU**](https://github.com/RublerubitZ/capstone_ers) | Full-Stack · ML Engineering | `KoBERT` `CBF&NCF` `FastAPI` `React` | 2024.09 — 2024.12 |
 | 🔍 | [**Mukabolrae**](https://github.com/RublerubitZ/Mukablorae) | Full-Stack · AI Engineering | `KoBERT` `KoBART` `FastAPI` `React` | 2025.03 - 2025.9 |
-| 🔖 | [**SEOLSTUDY**](https://github.com/RublerubitZ/semicolon) | Full-stack / DB·Infra | `Node.js + Express.js` `Next.js` `PostgreSQL` | 2026.02 - 2026.02 |
+| 🔖 | [**SEOLSTUDY**](https://github.com/RublerubitZ/semicolon) | Full-stack · DB·Infra | `Node.js + Express.js` `Next.js` `PostgreSQL` | 2026.02 - 2026.02 |
+| 💻 | [**DUING**](https://github.com/RublerubitZ/duing) | Full-Stack · Service Development | `Java` `Spring Boot` `Next.js` `PostgreSQL` | 2026.06 — Present(ing) |
 | 📌 | TEST | TEST | `TEST` | 2023.01 — 2024.02 |
 
 <br/>
